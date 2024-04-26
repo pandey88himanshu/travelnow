@@ -1,6 +1,8 @@
 # travelnow
 This is the assignment for frontend development by Html Developers
 
+visit: https://clinquant-mermaid-847e7f.netlify.app/
+
 Project Name: Travel Now
 
 Overview:
